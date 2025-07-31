@@ -8,7 +8,7 @@ env_path = Path(__file__).parent / ".env"
 load_dotenv(dotenv_path=env_path)
 
 # ✅ Get API key from environment
-api_key = "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"
+api_key = "Enter your API Key Here"
 
 
 # ✅ Raise error if key is not found
